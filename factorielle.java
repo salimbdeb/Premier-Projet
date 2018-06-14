@@ -1,6 +1,6 @@
 public class factorielle {
     public static void main(String[] args) {
-        int factoriel = 1;
+        double factoriel = 1;
         int valeur;
         valeur = Integer.parseInt(args[0]);
         while (valeur > 1) {
